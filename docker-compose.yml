@@ -31,7 +31,7 @@ services:
       --bootstrap $BOOTSTRAP
       --host $HOST_IP
       --no-upnp
-      --network-id mainnet
+      --network-id nnx001
       --shard-name root
       --fault-tolerance-threshold -1
       --max-number-of-parents 1
